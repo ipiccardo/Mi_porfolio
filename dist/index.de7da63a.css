@@ -10877,7 +10877,7 @@ section {
   color: #00cdac;
 }
 #projects .project-wrapper__image {
-  width: 50%;
+  width: 85%;
   margin: 0 auto;
 }
 @media (max-width: 75em) {
